@@ -1,3 +1,5 @@
+
+--Add Conflitos
 local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_TEAL)
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
