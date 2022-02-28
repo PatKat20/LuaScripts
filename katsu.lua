@@ -1,5 +1,5 @@
 -- This script is based on Deidara katsu jutsu which explode all the player clones 
-
+--Add Conflict--
 local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_TEAL)
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
